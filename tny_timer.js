@@ -4,8 +4,8 @@
    Review Assignment
 
    Event Timer
-   Author: 
-   Date:   
+   Author: Isaiah Romo
+   Date:   1/9/20
 
 */
 
